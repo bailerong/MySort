@@ -177,6 +177,7 @@ public class Quick {
         // shuffle
         StdRandom.shuffle(a);
 
+        
         // display results again using select
         StdOut.println();
         for (int i = 0; i < a.length; i++) {
