@@ -40,7 +40,7 @@ package myQuickSort;
  *  @author Kevin Wayne
  */
 public class Quick {
-
+//快速排序
     // This class should not be instantiated.
     private Quick() { }
 
